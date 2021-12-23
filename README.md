@@ -1,6 +1,6 @@
-## favemoji | Generate Favicon Emojis easy !
+# favemoji | Generate Favicon Emojis easy !
 ![favemoji](https://raw.githubusercontent.com/sancode86/favemoji/master/1.png?token=AVS567EGA5LEB3KZ53TUC73BYSRGQ)
-# Usage
+## Usage
 
 Once installed, it's simple and easy to use:
 - Pass variable of the emoji as string:

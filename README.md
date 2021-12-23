@@ -1,5 +1,5 @@
 ## favemoji | Generate Favicon Emojis easy !
-![favemoji](https://raw.githubusercontent.com/sancode86/favemoji/master/1.png?token=AVS567EGA5LEB3KZ53TUC73BYSRGQ)
+![favemoji](https://raw.githubusercontent.com/sancode86/favemoji/master/1.png?token=AVS567B6SLJC4MQDPC7H52TBYSVQS)
 # Usage
 
 Once installed, it's simple and easy to use:

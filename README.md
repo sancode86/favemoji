@@ -14,7 +14,7 @@ I've got you covered with this ridiculously small, must have, add-on for your da
 - instalation
 
 ```
-npm install sancode86/favemoji
+git clone https://github.com/sancode86/favemoji
 ```
 
 Once installed, it's simple and easy to use:

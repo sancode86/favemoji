@@ -1,4 +1,4 @@
-# favemoji | Generate Favicon Emojis easy !
+# favemoji | Generate Favicon Emojis easy ! 😋🙃
 ![favemoji](https://raw.githubusercontent.com/sancode86/favemoji/master/1.png?token=AVS567HDLCLWQMXMMUPENFDBYTCWC)
 
 Tired of seeing the "globe favicon" when starting a new project?
